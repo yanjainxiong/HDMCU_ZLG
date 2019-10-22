@@ -1,0 +1,11 @@
+﻿==>>HC32F030_Rev1.1.1 Release 2019-01-25:
+更正修改timer3的中断回调函数名
+==>>HC32F030_Rev1.1.0 Release 2018-11-20:
+1.ADT和basetimer中涉及ADC的IO口配置为模拟口时删除IO输入配置。
+2.I2C模块接收数据问题
+3.串口发送数据前，先请标志再发送
+4.spi主从方式主机接收数据可靠性问题
+5.Gpio_Init（）部分，增加对数字功能寄存器的配置
+6.完善FLASH操作API
+==>>HC32F030_Rev1.0.0 Release 2018-09-20:
+	Initial Version
