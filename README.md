@@ -2,7 +2,7 @@
 
 华大以振兴“MCU中国芯”为愿景，推出超低功耗应用HC32L系列、电机应用HC32M系列及通用型高性价比HC32F系列芯片，坚持为客户提供高质量、高安全性、高可靠性的产品和服务。
 
-ZLG立足市场产品需求、充分挖掘芯片优势，开发出一系列行业方案，以缩短客户产品开发周期、加速产品上市。目前华大MCU在陆续加入AMetal平台中，应广大工程师的强烈呼声， HC32L19x、L17x、L13x、F03x、F19x及F17x系列芯片基于AMetal的SDK率先发布，已于11月13日在github开源，欢迎您的试用，源码获取地址为：https://github.com/zlgopen/ametal
+ZLG立足市场产品需求、充分挖掘芯片优势，开发出一系列行业方案，以缩短客户产品开发周期、加速产品上市。目前华大MCU在陆续加入AMetal平台中，应广大工程师的强烈呼声， HC32L19x、L17x、L13x、F03x、F19x及F17x系列芯片基于AMetal的SDK率先发布，已于11月13日在github和码云同步开源，欢迎您的试用，github源码获取地址为：https://github.com/zlgopen/ametal  码云源码获取地址：https://gitee.com/zlgopen/ametal
 
 
 ## 基于AMetal平台开发的优势：
